@@ -1,0 +1,12 @@
+1. List: 
+- Is an ordered and mutable data structure that mantains insertion sequence. It is best used for frequently modifiable and duplicate data.
+
+2. Tuple: 
+It is an ordered and immutable data structure that allows duplication of read only related data that does not change.
+
+3. Set: 
+Used to manipulate unordered or non indexed unique data that is mutable, for example maths set operations like intersections, unions etc. 
+Can add or remove elements but the elements themselves must be unique.
+
+4.Dictionary: 
+It is an ordered list of key-value pairs that can be filtered using a unique key rather than indexes. The values can be duplicated.
